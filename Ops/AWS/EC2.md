@@ -8,6 +8,7 @@
  - Install any OS in a EC2
  - Configure security groups
  - Manage the EC2 instance
+ - Be able to SSH to an EC2 instance
 
 ## Evaluation
 
