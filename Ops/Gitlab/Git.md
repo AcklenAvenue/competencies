@@ -29,7 +29,8 @@
 - [https://linuxacademy.com/cp/courses/lesson/course/2198/lesson/6/module/218](https://linuxacademy.com/cp/courses/lesson/course/2198/lesson/6/module/218)
 
 
-# Users Mastery Badge Level 2
+# Git Mastery Badge Level 2
+
 
 ## Competencies
 
