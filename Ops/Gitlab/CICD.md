@@ -1,10 +1,10 @@
-
 # CI/CD Mastery Badge Level 1
 
 ## Competencies
 
 - Understand what is CI and CD
 - Learn to add variables in Gitlab CI
+- Understand the pipeline, job synchronous execution and asynchronous executions
 
 ## Evaluation
 
