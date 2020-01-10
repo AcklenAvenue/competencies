@@ -1,2 +1,2 @@
 # AcklenAvenue-Badges-Criteria
-This reposo
+The objective of this repositories is storing Acklen Avenue badges criteria.
