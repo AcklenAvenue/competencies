@@ -8,6 +8,9 @@
 
 ## Evaluation
 
+When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
+
+## Subject matter expert
 
 ## Suggested Learning
 - [https://linuxacademy.com/cp/modules/view/id/284](https://linuxacademy.com/cp/modules/view/id/284)
