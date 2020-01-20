@@ -17,7 +17,7 @@
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-Diego Turcios - Email: diego.turcios@acklenavenue.com
+Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 ## Suggested Learning
 
