@@ -11,7 +11,7 @@
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-Hector Rosales - Email: hector.rosales@acklenavenue.com
+Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 ## Suggested Learning
 
