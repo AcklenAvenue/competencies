@@ -2,14 +2,21 @@
 
 ## Competencies
 
- - Explaint what is Elastic Beanstalk and how it's useful in Acklen Avenue
- - Explain the differences between restart, destroy and rebuild and learn how to do them
- - Able to find and download logs and provide this information to developers
- - Able to find and read real time logs
+ - Explain what is Elastic Beanstalk and how it's useful in a deployment process
+ - Understand when is the right time to restart or rebuild and environment
+ - Be able to:
+	- Clone environment
+	- Find and download logs
+	- Find and read real time logs
+	- Restart environment
+	- Rebuild environment
+	- Destroy environment
 
 ## Evaluation
 
-When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
+When you feel that you have mastered the competencies above, and you're ready for an evaluation, please record a quick screencast where you talk through and demostrate each competency. 
+- Send the link to the Subject matter expert for evaluation.
+- When the SME tells you that you passed, you can claim the badge.
 
 ## Subject matter expert
 Eliseo Garcia - Email: eliseo@acklenavenue.com
