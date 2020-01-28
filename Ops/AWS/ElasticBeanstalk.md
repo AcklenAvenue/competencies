@@ -16,7 +16,7 @@
 
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please record a quick screencast where you talk through and demostrate each competency. 
 - Send the link to the Subject matter expert for evaluation.
-- When the SME tells you that you passed, you can claim the badge.
+- Schedule 15 min with the SME for a feedback meeting.
 
 ## Subject matter expert
 Eliseo Garcia - Email: eliseo@acklenavenue.com
