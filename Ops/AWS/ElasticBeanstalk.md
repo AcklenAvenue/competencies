@@ -2,10 +2,10 @@
 
 ## Competencies
 
- - Understand what is Elastic Beanstalk and how it's useful in Acklen Avenue
- - Understand the differences between restart, destroy and rebuild and learn how to do them
- - Learn how to find and download logs and provide this information to developers
- - Learn how to find and read real time logs
+ - Explaint what is Elastic Beanstalk and how it's useful in Acklen Avenue
+ - Explain the differences between restart, destroy and rebuild and learn how to do them
+ - Able to find and download logs and provide this information to developers
+ - Able to find and read real time logs
 
 ## Evaluation
 
