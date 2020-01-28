@@ -2,14 +2,13 @@
 
 ## Competencies
 
- - Understand what is IAM
- - Learn to:
+ - Explain what is IAM
+ - Be able to:
 	 - Create User
+	 - Add users to existing groups
+	 - Add existing permissions to users
+	 - Add existing roles to an entity
 	 - Delete User
-	 - Update User
-- Learn to add users to existing groups
-- Learn to add existing permissions to users
-- Add existing roles to an entity
 
 ## Evaluation
 
