@@ -2,14 +2,19 @@
 
 ## Competencies
 
- - Understand the RDS concepts
- - Learn to modify an existing RDS instance
-		 - Instance Class
-		 - Public accessibility
-		 - Restart the instance
-		 - Modify the allocate storage
-		 - Modify Backup retention period
-- Learn to connect to the DB, using any GUI or CLI application
+ - Understand basic RDS concepts
+ 	- What is RDS?
+	- Understand the difference between an instance and a database
+	- When RDS could be used?
+	- What is a database engine?
+	- What databases engines are available in RDS?
+ - Able to modify an existing RDS instance
+	- Instance Class
+	- Public accessibility
+	- Restart the instance
+	- Modify the allocated storage
+	- Modify backup retention period
+- Able to connect to the DB, using any GUI or CLI application
 - Be capable of explaining any member of the tribe, how to connect to the DB
 
 ## Evaluation
