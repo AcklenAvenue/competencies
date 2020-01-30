@@ -2,9 +2,16 @@
 
 ## Competencies
 
-- Understand what is CI and CD
-- Learn to add variables in Gitlab CI
-- Understand the pipeline, job synchronous execution and asynchronous executions
+- Understand what is CI and CD (differences between the two, stages, essential elements)
+- Able to view, add, modify environment variables in Gitlab CI
+	- Trigger variables
+	- Project variables
+	- Group variables
+	- YAML-defined job-level variables
+	- YAML-defined global variables
+- Able to read YAML config file and understand its structure
+- Able to explain how stages work with pipelines
+- Able to open and browse console output from jobs
 
 ## Evaluation
 
