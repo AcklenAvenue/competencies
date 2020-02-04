@@ -2,13 +2,14 @@
 
 ## Competencies
 
- - Understand the different instance types
- - Understand the different instances sizes
- - Understand the basics of elastic block store (EBS)
- - Install any OS in a EC2
- - Configure security groups
- - Manage the EC2 instance
- - Be able to SSH to an EC2 instance
+ - Explain the different instance types
+ - Explain the different instances sizes
+ - Explain the basics of elastic block store (EBS)
+ - Be able to:
+    - Install any OS in a EC2
+    - Configure security groups
+    - Manage the EC2 instance
+    - Connect via SSH to an EC2 instance
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
@@ -26,6 +27,13 @@ Diego Turcios - Email: diego.turcios@acklenavenue.com
 
 ## Competencies
 
+ - Be able to:
+    - Change instance type
+    - Add/Edit Tags 
+    - Create an Elastic IP
+    - Assign an Elastic IP to an Instance
+
 ## Evaluation
+When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Suggested Learning
