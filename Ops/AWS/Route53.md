@@ -14,6 +14,9 @@
 ## Subject matter expert
 Hector Rosales - Email: hector.rosales@acklenavenue.com
 
+## Claim Badge
+To claim the badge use this [link](https://badge-claim.herokuapp.com/badgeid/bLBBJ7UEQDeImD9C8bwj4A).
+
 ## Suggested Learning
 
  - [https://linuxacademy.com/cp/courses/lesson/course/4458/lesson/1/module/341](https://linuxacademy.com/cp/courses/lesson/course/4458/lesson/1/module/341)
