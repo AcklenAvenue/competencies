@@ -4,7 +4,7 @@
 
  - Understand basic RDS concepts
  	- What is RDS?
-	- Understand the difference between an instance and a database
+	- Explain the difference between an instance and a database
 	- When RDS could be used?
 	- What is a database engine?
 	- What databases engines are available in RDS?
