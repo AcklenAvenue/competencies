@@ -2,7 +2,7 @@
 
 ## Competencies
 
- - Explain what is IAM
+ - Explain what is IAM and what problem it solves
  - Be able to:
 	 - Create User
 	 - Add users to existing groups
