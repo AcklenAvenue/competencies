@@ -7,7 +7,6 @@
 	 - Create User
 	 - Add users to existing groups
 	 - Add existing permissions to users
-	 - Add existing roles to an entity
 	 - Delete User
 
 ## Evaluation
