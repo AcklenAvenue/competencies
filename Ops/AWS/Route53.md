@@ -2,9 +2,9 @@
 
 ## Competencies
 
- - Understand what is Route 53
- - Understand what is CNAME RECORD & A RECORD
- - Learn how to create, modify and delete a DNS record (A, CNAME)
+ - Understand what is Route 53 is used for.
+ - Understand what is CNAME RECORD & A RECORD and their differences.
+ - Be able to create, modify and delete a DNS record (A, CNAME).
 
 
 ## Evaluation
