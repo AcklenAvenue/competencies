@@ -27,6 +27,9 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 ## Suggested Learning
 
  - [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/1/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/1/module/341)
+ 
+## Claim your Badge
+ - https://badge-claim.herokuapp.com/badgeid/6cfWFBgXTXmlFDB4eGWN2A
 
 # RDS Mastery Badge Level 2
 
