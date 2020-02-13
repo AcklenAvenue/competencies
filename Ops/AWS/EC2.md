@@ -27,11 +27,11 @@ Diego Turcios - Email: diego.turcios@acklenavenue.com
 
 ## Competencies
 
- - Be able to:
+ - Able to  modify an existing EC2 instances :
     - Change instance type
     - Add/Edit Tags 
     - Create an Elastic IP
-    - Assign an Elastic IP to an Instance
+    - Assign an Elastic IP to a running Instance
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
