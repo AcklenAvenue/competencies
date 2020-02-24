@@ -2,16 +2,17 @@
 # Docker Mastery Badge Level 1
 
 ## Competencies
-- Understand what is docker
-- Learn the advantages of using docker
-- Learn how to download logs from an existing container
+- Understand what is docker.
+- Understand the advantages of using docker.
+- Be able to list running containers.
+- Be able to view local logs from an existing container.
 
 ## Evaluation
 
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-Diego Turcios - Email: diego.turcios@acklenavenue.com
+Héctor Rosales - Email: hector.rosales@acklenavenue.com
 
 ## Suggested Learning
 - [https://linuxacademy.com/cp/modules/view/id/284](https://linuxacademy.com/cp/modules/view/id/284)
@@ -21,6 +22,8 @@ Diego Turcios - Email: diego.turcios@acklenavenue.com
 	- [https://app.linuxacademy.com/hands-on-labs/1ec8d2f8-3929-49ac-aea2-79e2286a3fdd](https://app.linuxacademy.com/hands-on-labs/1ec8d2f8-3929-49ac-aea2-79e2286a3fdd)
 	- [https://app.linuxacademy.com/hands-on-labs/950fb2d7-9a5f-4136-86b4-cae2876bd193](https://app.linuxacademy.com/hands-on-labs/950fb2d7-9a5f-4136-86b4-cae2876bd193)
 
+## Claim Badge:
+Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/De6mNXmAQuW75FwR3yONSg](link):
 
 # Docker Mastery Badge Level 2
 
