@@ -2,7 +2,7 @@
 
 ## Competencies
 
- - Be able to explain what is a Group in Gitlab
+ - Be able to explain what is a Group in Gitlab and why is it useful
  - Be able to:
     - Manage Gitlab users for Acklen Avenue Account
     - Give permissions to users
