@@ -2,9 +2,11 @@
 
 ## Competencies
 
--   Understand what is an organization in Git-lab
- -  Lean how to manage Gigabit users for Acklen Avenue Account
- - Learn how to give permissions to users
+ - Be able to explain what is a Group in Gitlab
+ - Be able to:
+    - Manage Gitlab users for Acklen Avenue Account
+    - Give permissions to users
+    - Delete a user from a group
 
 ## Evaluation
 
