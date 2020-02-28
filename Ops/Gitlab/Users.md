@@ -3,6 +3,7 @@
 ## Competencies
 
  - Be able to explain what is a Group in Gitlab and why is it useful
+ - Be able to explain the different types of permissions that can be assign to a user
  - Be able to:
     - Manage Gitlab users for Acklen Avenue Account
     - Give permissions to users
