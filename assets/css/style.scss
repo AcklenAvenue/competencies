@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 
-header h1 { text-align: center }
+body > div.wrapper > header > h1 { text-align: center }
