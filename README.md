@@ -3,7 +3,7 @@ The objective of this repository is storing Actually Agile badge criteria.
 
 ## Areas
 
-* [Devops](OPS)
+* [Devops](Ops)
 * [QA](QA)
 * [Development](dev)
 * [Design](design)
