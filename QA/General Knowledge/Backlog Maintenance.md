@@ -2,15 +2,14 @@
 
 ## Competencies
 
- - Explain .......
-
- - Be able to:
-
+- Is able to explain what’s a development cycle
+- Is able to set a pair session with a teammate
+- Is able to participate on grooming sessions and add QA tasks to a card
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
-## Subject matter expert
+## Champion
 Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
