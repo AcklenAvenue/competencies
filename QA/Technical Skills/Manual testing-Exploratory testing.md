@@ -2,15 +2,12 @@
 
 ## Competencies
 
- - Explain .......
-
- - Be able to:
-
+ - Is able to execute an exploratory test without any documentation
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
-## Subject matter expert
+## Champion
 Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
