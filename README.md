@@ -4,7 +4,7 @@ The objective of this repository is storing Actually Agile badge competencies an
 
 ## Areas
 
-* [Devops](Ops)
+* [Devops](ops)
 * [QA](QA)
 * [Development](dev)
 * [Design](design)
