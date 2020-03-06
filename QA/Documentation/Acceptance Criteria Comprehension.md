@@ -2,15 +2,15 @@
 
 ## Competencies
 
- - Explain .......
-
- - Be able to:
+- Is able to understand a short Given-When-Then scenario
+- Is able to understand an acceptance criteria for an specific scenario
+- Is able to add testing impact to a card and identify if target regression is needed.
 
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
-## Subject matter expert
+## Champion
 Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
