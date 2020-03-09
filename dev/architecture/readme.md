@@ -1,3 +1,3 @@
 # Architecture
 
-* [Clean Architecture](clean-architecture.md)
+- [Clean Architecture](clean-architecture.md)
