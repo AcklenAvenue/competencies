@@ -17,4 +17,4 @@ TBD
 - https://docs.gitlab.com/runner/
 
 ## Claim Badge:
-Pleas claim your badge using this [](link):
+Pleas claim your badge using this [https://badgr.com/issuers/5d99f5d946e0fb002174dd54/badges/5e67fd7c72ddfd161e6f3ac6/overview](link):
