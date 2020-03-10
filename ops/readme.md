@@ -5,4 +5,3 @@
 * [Docker](docker)
 * [Gitlab](gitlab)
 * [Terraform](terraform)
-* [Docker](docker)
