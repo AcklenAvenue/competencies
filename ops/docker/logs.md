@@ -24,7 +24,3 @@ Héctor Rosales - Email: hector.rosales@acklenavenue.com
 
 ## Claim Badge:
 Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/De6mNXmAQuW75FwR3yONSg](link):
-
-# Docker Mastery Badge Level 2
-
-## Competencies

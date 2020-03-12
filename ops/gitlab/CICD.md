@@ -29,9 +29,4 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 - [https://www.youtube.com/watch?v=Jav4vbUrqII](https://www.youtube.com/watch?v=Jav4vbUrqII)
 
 ## Claim Badge:
-Pleas claim your badge using this [https://badgr.com/issuers/5d99f5d946e0fb002174dd54/badges/5e16476646e0fb00221bf679/overview](link):
-
-
-# CI/CD Mastery Badge Level 2
-
-## Competencies
+Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/z_8SvW44Shm2_87tQmQ3EQ](link):

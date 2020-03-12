@@ -20,17 +20,4 @@ TBD
 - https://www.youtube.com/watch?v=RA1mNClGYJ4&t=543s
 
 ## Badge
- After you have been evaluated you can claim the badge using [this link](https://badgr.com/issuers/5d99f5d946e0fb002174dd54/badges/5e62637872ddfd161e6e417a/overview).
-
-
-# Terraform Mastery Badge Level 2
-
-## Competencies
-
-## Evaluation
-
-## Subject matter expert
-
-## Suggested Learning
-
-## Badge
+ After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/hfbx4FSdQXmBOQmutCDqOw).

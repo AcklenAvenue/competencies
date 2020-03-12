@@ -18,4 +18,4 @@ TBD
 - https://linuxacademy.com/cp/modules/view/id/284
 
 ## Claim Badge:
-Pleas claim your badge using this [https://badgr.com/issuers/5d99f5d946e0fb002174dd54/badges/5e67fd383ed4bb5c1e676a6d/overview](link):
+Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/0sHNb_A0Tq2doLqo011otQ](link):

@@ -20,8 +20,5 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 
 - [https://docs.gitlab.com/ee/user/profile/account/create_accounts.html](https://docs.gitlab.com/ee/user/profile/account/create_accounts.html)
 
-# Users Mastery Badge Level 2
-
-## Competencies
-
- -
+## Claim Badge:
+Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/4pmxwrSWQTGuf9fB90V3fA](link):
