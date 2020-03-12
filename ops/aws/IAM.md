@@ -30,11 +30,11 @@ After you have been evaluated you can claim the badge using [this link](https://
 
 ## Competencies
 - Explain IAM concepts of:
- - Policies
- - Users
- - Groups
- - Access Keys
- - Roles
+   - Policies
+   - Users
+   - Groups
+   - Access Keys
+   - Roles
 - Be able to create and an IAM user and setup the CLI
 - Be able to create a user and assign roles, policies and groups
 
