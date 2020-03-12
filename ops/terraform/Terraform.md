@@ -3,9 +3,9 @@
 ## Competencies
 Be able to:
  - Write/Modify a terraform file using the AWS provider
-  - The file needs to provision an EC2 on AWS
-  - Crete/modify security groups
-  - Use variables for managing the resources
+    - The file needs to provision an EC2 on AWS
+    - Crete/modify security groups
+    - Use variables for managing the resources
  - Read and use the terraform documentation   
  - Plan and apply terraform and in case there're errors be able to fix them
 
