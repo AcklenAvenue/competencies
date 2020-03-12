@@ -2,7 +2,7 @@
 
 ## Competencies
 You will be able to:
- - Install and configure Docker
+ - Install and configure Docker in development and understand the concepts of production
  - Manage a docker image
  - Understand and create a dockerfile
  - Create and delete a container
