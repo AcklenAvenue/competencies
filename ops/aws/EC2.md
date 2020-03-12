@@ -32,8 +32,8 @@ Diego Turcios - Email: diego.turcios@acklenavenue.com
 In this level #2, you will begin your process for taking the AWS Certified Solutions Architect - Associate Level.
 You will be able to  :
 -  Modify an existing EC2 instances :
-- Change instance type
-- Add/Edit Tags
+   - Change instance type
+   - Add/Edit Tags
 - Create an Elastic IP
 - Assign an Elastic IP to a running Instance
 
