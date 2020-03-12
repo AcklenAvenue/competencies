@@ -18,11 +18,11 @@
   Diego Turcios - Email: diego.turcios@acklenavenue.com
 
 ## Suggested Learning   
-- https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/1/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/2/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/3/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/4/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/5/module/341
+- [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/1/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/1/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/2/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/2/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/3/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/3/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/4/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/4/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/5/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/5/module/341)
 
 ## Badge
 After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/x4CoHpkLQkuKODGCReRXdg).

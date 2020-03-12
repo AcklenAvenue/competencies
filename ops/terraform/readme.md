@@ -1,3 +1,3 @@
 # Terraform
 
-* [Terraform](terraform.md)
+* [Terraform](Terraform.md)

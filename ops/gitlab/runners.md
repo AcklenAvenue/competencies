@@ -14,7 +14,7 @@ When you feel that you have mastered the competencies above, and you're ready fo
 TBD
 
 ## Suggested Learning
-- https://docs.gitlab.com/runner/
+- [https://docs.gitlab.com/runner/](https://docs.gitlab.com/runner/)
 
 ## Claim Badge:
 Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/0tTn90hfTB--orZ93Tw7lw](link):

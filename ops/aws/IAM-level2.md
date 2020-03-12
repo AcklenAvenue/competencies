@@ -20,13 +20,13 @@ When you feel that you have mastered the competencies above you will do two eval
 Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 ## Suggested Learning   
-- https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/1/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/2/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/3/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/4/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/5/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/6/module/341
-- https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/7/module/341
+- [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/1/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/1/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/2/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/2/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/3/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/3/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/4/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/4/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/5/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/5/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/6/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/6/module/341)
+- [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/7/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/7/module/341)
 
 
 ## Badge
