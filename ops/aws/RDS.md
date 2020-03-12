@@ -35,12 +35,12 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 ## Competencies
  - Understand RDS concepts
-  - Resiliency Multi-AZ
-  - Read Replicas
+   - Resiliency Multi-AZ
+   - Read Replicas
  - Be able to create and delete a RDS instance
-  - Setup automatic backups
-  - Setup parameter groups
-  - Restore a RDS instance from backups
+   - Setup automatic backups
+   - Setup parameter groups
+   - Restore a RDS instance from backups
 
 ## Evaluation
   When you feel that you have mastered the competencies above you will do two evaluations. A preparation exam for getting you ready for the AWS certification and a 30 minutes call with the subject master listed on the badge.
