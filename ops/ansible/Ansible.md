@@ -5,8 +5,9 @@ Be able to:
  - Understand why we need to used ansbile
  - Understand the benefits of ansible
  - Install ansible on the control host.
- - Create an inventory file.
+ - Create/Update an inventory file.
  - Write an ansible playbook, that installs a package in the inventory machines.
+ - Maintain an existing ansible playbook
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
