@@ -3,6 +3,9 @@
 ## Competencies
 In this level #2, you will begin your process for taking the AWS Certified Solutions Architect - Associate Level.
 You will be able to  :
+-  Understand the concepts of:
+   - When to use EC2 tags and why we use them
+   - When to use elastic ip and why we use them
 -  Modify an existing EC2 instances :
    - Change instance type
    - Add/Edit Tags
