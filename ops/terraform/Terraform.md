@@ -2,13 +2,16 @@
 
 ## Competencies
 Be able to:
- - Write/Modify a terraform file using the AWS provider
-    - The file needs to provision an EC2 on AWS
-    - Crete/modify security groups
-    - Use variables for managing the resources
+ - Understand the benefits of infraestructure as code
+ - Understand why we use terraform
+ - Understand the differences between terraform and cloudformation
  - Read and use the terraform documentation   
- - Plan and apply terraform and in case there're errors be able to fix them
-
+ - Be able to use the plan/apply terraform commands 
+ - Be able to fix errors when planning or applying terraform commands
+ - Be able to do the following using terraform and the AWS provider:
+    - Provision an EC2 instance 
+    - Crete/modify security groups
+    - Use variables for managing resources
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
