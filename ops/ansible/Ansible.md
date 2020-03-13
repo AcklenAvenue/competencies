@@ -2,6 +2,8 @@
 
 ## Competencies
 Be able to:
+ - Understand why we need to used ansbile
+ - Understand the benefits of ansible
  - Install ansible on the control host.
  - Create an inventory file.
  - Write an ansible playbook, that installs a package in the inventory machines.
