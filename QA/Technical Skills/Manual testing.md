@@ -13,4 +13,5 @@ Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.youtube.com/watch?v=izyqJPl9wW8](https://www.youtube.com/watch?v=izyqJPl9wW8) <<-----As an example>>
+ - [https://www.youtube.com/watch?v=xCwkjZcEK6w](https://www.youtube.com/watch?v=xCwkjZcEK6w)
+ - [https://support.smartbear.com/cucumberstudio/docs/manual-test-execution.html](https://support.smartbear.com/cucumberstudio/docs/manual-test-execution.html)
