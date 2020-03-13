@@ -12,7 +12,8 @@ Be able to:
     - Provision an EC2 instance 
     - Crete/modify security groups
     - Use variables for managing resources
-    
+
+
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
