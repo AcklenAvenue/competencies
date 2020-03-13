@@ -2,7 +2,11 @@
 
 ## Competencies
 You will be able to:
- - Install and configure Docker in development and understand the concepts of production
+ - Understand the following docker concepts:
+    - Benefits of using docker
+    - Differences between using docker in development and production enviroments
+    - Anatomy and structure of a dockerfile
+ - Install and configure Docker in a development enviroment 
  - Manage a docker image
  - Understand and create a dockerfile
  - Create and delete a container
