@@ -2,11 +2,13 @@
 
 ## Competencies
 
-- Is able to explain what’s each lane function
-- Is able to add the adequate label according the type of finding
-- Is able to know each section/checkl- ist of a card
-- Is able to know how to document a finding
-- Is able to know development card cycle
+- Is able to create lanes on the board
+- Is able to create cards on the board
+- Is able to create and add labels to a card
+- Is able to create checklist
+- Is able to add due date to a card
+- Is able to archive and delete cards
+- Is able to give a walkthrough of Trello.
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
@@ -16,4 +18,6 @@ Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.youtube.com/watch?v=izyqJPl9wW8](https://www.youtube.com/watch?v=izyqJPl9wW8) <<-----As an example>>
+ - [https://help.trello.com/](https://help.trello.com/)
+ - [https://www.youtube.com/watch?v=CtcX_ZYHdr8/](https://www.youtube.com/watch?v=CtcX_ZYHdr8/)
+ - [https://trello.com/guide](https://trello.com/guide)

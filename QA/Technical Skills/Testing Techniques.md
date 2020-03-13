@@ -18,4 +18,5 @@ Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.youtube.com/watch?v=izyqJPl9wW8](https://www.youtube.com/watch?v=izyqJPl9wW8) <<-----As an example>>
+ - [https://www.youtube.com/watch?v=rFaWOw8bIMM](https://www.youtube.com/watch?v=rFaWOw8bIMM)
+ - [https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)

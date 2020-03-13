@@ -4,7 +4,7 @@
 
 - Is able to explain what’s a development cycle
 - Is able to set a pair session with a teammate
-- Is able to participate on grooming sessions and add QA tasks to a card
+- Is able to participate on grooming sessions, retrospective and stand up meetings
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
@@ -14,4 +14,5 @@ Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.youtube.com/watch?v=izyqJPl9wW8](https://www.youtube.com/watch?v=izyqJPl9wW8) <<-----As an example>>
+ - [https://www.smartsheet.com/understanding-agile-software-development-lifecycle-and-process-workflow](https://www.smartsheet.com/understanding-agile-software-development-lifecycle-and-process-workflow)
+ - [http://acklen.talentlms.com/unit/view/id:2262](http://acklen.talentlms.com/unit/view/id:2262)

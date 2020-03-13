@@ -15,4 +15,7 @@ Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.youtube.com/watch?v=izyqJPl9wW8](https://www.youtube.com/watch?v=izyqJPl9wW8) <<-----As an example>>
+ - [http://acklen.talentlms.com/unit/view/id:3302](http://acklen.talentlms.com/unit/view/id:3302)
+ - [https://support.smartbear.com/cucumberstudio/docs/general-info/about.html](https://support.smartbear.com/cucumberstudio/docs/general-info/about.html)
+ - [https://support.smartbear.com/cucumberstudio/docs/general-info/quick-start.html](https://support.smartbear.com/cucumberstudio/docs/general-info/quick-start.html)
+ - [https://support.smartbear.com/cucumberstudio/docs/bdd/write-gherkin-scenarios.html](https://support.smartbear.com/cucumberstudio/docs/bdd/write-gherkin-scenarios.html)

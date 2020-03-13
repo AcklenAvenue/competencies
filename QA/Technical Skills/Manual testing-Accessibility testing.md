@@ -12,4 +12,5 @@ Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.youtube.com/watch?v=izyqJPl9wW8](https://www.youtube.com/watch?v=izyqJPl9wW8) <<-----As an example>>
+ - [https://www.youtube.com/watch?v=hufMi9LZX2I](https://www.youtube.com/watch?v=hufMi9LZX2I)
+ - [https://www.youtube.com/watch?v=56zCnwj58e4](https://www.youtube.com/watch?v=56zCnwj58e4)

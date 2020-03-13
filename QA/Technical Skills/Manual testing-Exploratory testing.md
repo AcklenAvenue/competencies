@@ -12,4 +12,6 @@ Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.youtube.com/watch?v=izyqJPl9wW8](https://www.youtube.com/watch?v=izyqJPl9wW8) <<-----As an example>>
+ - [https://www.guru99.com/exploratory-testing.html](https://www.guru99.com/exploratory-testing.html)
+ - [https://www.youtube.com/watch?v=cwlCkpKI_Rw](https://www.youtube.com/watch?v=cwlCkpKI_Rw)
+ - [https://www.youtube.com/watch?v=MCf9v1m6rHc](https://www.youtube.com/watch?v=MCf9v1m6rHc)
