@@ -11,7 +11,7 @@ You will be earn the badge when you're able to:
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-TBD
+Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 ## Suggested Learning
 - [https://docs.gitlab.com/runner/](https://docs.gitlab.com/runner/)
