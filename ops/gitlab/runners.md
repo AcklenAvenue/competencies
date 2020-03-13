@@ -3,6 +3,7 @@
 ## Competencies
 The objective of this badge is to understand how we use gitlab runners in our company.
 You will be earn the badge when you're able to:
+- Understand the benefits of runners and how they work
 - Connect to the runners
 - Clean the runners
 - Configure a project to use specific runners or shared runners
