@@ -1,13 +1,13 @@
 # IAM Mastery Badge Level 2
 
 ## Competencies
-- Explain IAM concepts of:
+- Understand IAM concepts of:
    - Policies
    - Users
    - Groups
    - Access Keys
    - Roles
-- Be able to create and an IAM user and setup the CLI
+- Be able to create an IAM user and setup the CLI
 - Be able to create a user and assign roles, policies and groups
 
 ## Evaluation
