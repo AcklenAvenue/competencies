@@ -9,7 +9,7 @@ Be able to:
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-TBD
+Hector Rosales - Email: hector.rosales@acklenavenue.com
 
 ## Suggested Learning
 - [https://app.linuxacademy.com/hands-on-labs/a0936654-61c3-4d94-a58a-84b8c2c5163b](https://app.linuxacademy.com/hands-on-labs/a0936654-61c3-4d94-a58a-84b8c2c5163b)
