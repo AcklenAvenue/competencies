@@ -13,7 +13,7 @@ Be able to:
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-TBD
+Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 
 ## Suggested Learning
 - [https://app.linuxacademy.com/hands-on-labs/340963f9-b07f-4cb9-b3b1-f7f225eb815e?redirect_uri=https:%2F%2Flinuxacademy.com%2Fcp%2Fmodules%2Fview%2Fid%2F358](https://app.linuxacademy.com/hands-on-labs/340963f9-b07f-4cb9-b3b1-f7f225eb815e?redirect_uri=https:%2F%2Flinuxacademy.com%2Fcp%2Fmodules%2Fview%2Fid%2F358)
