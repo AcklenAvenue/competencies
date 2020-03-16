@@ -1,3 +1,3 @@
 # Software Quality Assurance
 
-- [Technical Skills](Technical Skills)
+- [Technical Skills](Technical%20Skills)
