@@ -1,4 +1,4 @@
-# Acceptance Criteria Comprehemsion Mastery Badge Level 1
+# Acceptance Criteria Comprehension Mastery Badge Level 1
 
 ## Competencies
 
@@ -11,7 +11,7 @@
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Champion
-Kerlyn Bustillo  - Email: kerlynbustillo@acklenavenue.com
+Pending.
 
 ## Suggested Learning
 
