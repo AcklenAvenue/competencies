@@ -1,4 +1,4 @@
 # General Knowledge
 
-- [Trello](trello)
-- [Backlog Maintenance](backlog%20maintenance)
+- [Trello](Trello)
+- [Backlog Maintenance](Backlog%20Maintenance)

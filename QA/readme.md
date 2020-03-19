@@ -1,5 +1,5 @@
 # Software Quality Assurance
 
-- [General Knowledge](general%20knowledge)
-- [Documentation](documentation)
-- [Technical Skills](technical%20skills)
+- [General Knowledge](General%20Knowledge)
+- [Documentation](Documentation)
+- [Technical Skills](Technical%20Skills)
