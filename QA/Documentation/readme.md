@@ -1,6 +1,6 @@
 # Documentation
 
-- [Reworks Documentation](rework%20documentation)
-- [Bug Documentation](bugs%20documentation)
-- [Acceptance Criteria Comprehension](acceptance%20Criteria%20comprehension)
-- [Gherkin](test%20cases-gherkin)
+- [Reworks Documentation](Rework%20Documentation)
+- [Bug Documentation](Bugs%20Documentation)
+- [Acceptance Criteria Comprehension](Acceptance%20Criteria%20Comprehension)
+- [Gherkin](Test%20cases-Gherkin)
