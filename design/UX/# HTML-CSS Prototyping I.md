@@ -1,10 +1,11 @@
 # HTML-CSS Prototyping I
 
 ## Competencies:
-* Able to build a high fidelity mockup from a previously wireframed solution.
-* Able to present this solution in a logical and organized manner.
+* Able to build an exact HTML protoype from a previously built design. 
+* Able to build this prototype in a clean approach, ready for handoff.
 
 ## Evaluation:
+* Select a project from the Suggested Learning section. 
 * Schedule a 30-minute session with the related badge champion. You will need to be able to discuss and/or demonstrate the competencies above freely. 
 
 ## Notes:
@@ -15,9 +16,10 @@
 ## Suggested Learning
 * [15 HTML and CSS Projects to sharpen Your Skills](https://nabendu.blog/posts/15-html-and-css-projects-to-sharpen-your-skills-4flo/)
 
-## Champion
+## Champion(s)
 
 * [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)
+* [Fernando Guevara](mailto:fernando@acklenavenue.com)
 
 ## Claiming Your Badge:
 When the badge champion authorizes it, you may click the link to claim the badge.

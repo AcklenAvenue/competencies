@@ -2,7 +2,7 @@
 
 ## Competencies:
 * Able to identify repeatable solutions to recurring design problems.
-* Able to create  pattern library. 
+* Able to create a pattern library. 
 * Able to recognize the usage of dark patterns. 
 
 ## Evaluation:
