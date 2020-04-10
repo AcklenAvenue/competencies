@@ -1,7 +1,7 @@
 # User Experience Badges
 
 - [UX 101](UX101.md)
-- [Functional Requirements I](FuntionalRequirementsI.md)
+- [Functional Requirements I](FunctionalRequirementsI.md)
 - [Information Architect I](InformationArchitectI.md)
 - [Content Strategist I](ContentStrategistI.md)
 - [Usability Patterns I](UsabilityPatternsI.md)

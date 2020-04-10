@@ -1,9 +1,8 @@
 # Usability Evaluation I (Test)
 
 ## Competencies:
-* Able to show mastery at a wireframing level.
-* Able to present a solution to a problem or opportunity as simply as possible.
-
+* Able to conduct usability evaluations 
+* 
 ## Evaluation:
 * Complete the following class: [Usability Evaluation I](https://classroom.google.com/c/NzU2OTM5ODc0MTRa)
 * Class Code: 7tnfe2a
