@@ -6,16 +6,12 @@
 * Able to recognize the usage of dark patterns. 
 
 ## Evaluation:
+* Read: [A Step-By-Step Guide To User Experience (UX) Patterns](https://careerfoundry.com/en/blog/ux-design/ux-patterns-why-use-them/)
+* Read: [What are User Interface (UI) Design Patterns?](https://www.interaction-design.org/literature/topics/ui-design-patterns)
+* Go through the following resource: [Design Patterns](https://ui-patterns.com/patterns)
 * Schedule a 30-minute session with the related badge champion. You will need to be able to discuss and/or demonstrate the competencies above freely. 
 
-## Notes:
-* Before scheduling your session, we suggest you use previously worked on projects used during this pathway to save time. 
-
-## Suggested Learning
-* [Empower Your Designer-Developer Workflow—with tips from AWS](https://www.invisionapp.com/talks/designer-developer)
-
-## Champion
-
+## Champion:
 * [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)
 
 ## Claiming Your Badge:

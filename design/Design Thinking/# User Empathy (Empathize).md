@@ -1,8 +1,7 @@
 # User Empathy (Empathize)
 
 ## Competencies:
-* Able to have a deeper understanding of the people you are designing for. (Users, stakeholders, team)
-* Able to empathize with the people you are designing for by understanding their needs, thoughts, emotions and motivations.
+* Able to have a deeper understanding of the people you are designing for (Users, stakeholders, team) by understanding their needs, thoughts, emotions and motivations.
 * Able to apply different techiques to empathize with these people in order to adopt their mindset.
 
 ## Evaluation:
