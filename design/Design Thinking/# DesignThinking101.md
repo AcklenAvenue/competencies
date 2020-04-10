@@ -12,10 +12,6 @@
 * If you have the Design Thinking Workshop Participant badge, let your champion know. 
 * If you attended the Camp Acklen where this workshop took place and do not have the badge, please let your champion know. 
 
-## Suggested Learning:
-
-* [Design Thinking Defined](https://designthinking.ideo.com/)
-
 ## Available Champions:
 
 * [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)
