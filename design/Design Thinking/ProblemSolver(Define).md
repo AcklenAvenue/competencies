@@ -10,9 +10,6 @@
 * Class Code: 4mdrify
 * Schedule a 30-minute session with the related badge champion. You will need to be able to discuss and/or demonstrate the competencies above freely. 
 
-## Suggested Learning
-* [Define - Reframe the Problem ](https://www.designbetter.co/design-thinking/define)
-
 ## Champion
 
 * [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)

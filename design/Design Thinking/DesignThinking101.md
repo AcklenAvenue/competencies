@@ -12,10 +12,9 @@
 * If you have the Design Thinking Workshop Participant badge, let your champion know. 
 * If you attended the Camp Acklen where this workshop took place and do not have the badge, please let your champion know. 
 
-## Available Champions:
+## Champions:
 
 * [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)
-* [Fernando Guevara](mailto:fernando@acklenavenue.com)
 
 ## Claiming Your Badge:
 When the badge champion authorizes it, you may click the link to claim the badge.

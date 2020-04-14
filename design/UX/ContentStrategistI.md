@@ -15,7 +15,6 @@
 
 ## Champion
 
-* [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)
 * [Fernando Guevara](mailto:fernando@acklenavenue.com)
 
 ## Claiming Your Badge:

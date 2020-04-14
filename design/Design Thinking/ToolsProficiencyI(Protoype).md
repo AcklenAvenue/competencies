@@ -10,11 +10,7 @@
 * Class Code: 2b4vt5q
 * Schedule a 30-minute session with the related badge champion. You will need to be able to discuss and/or demonstrate the competencies above freely. 
 
-## Suggested Learning
-* [Stage 4 in the Design Thinking Process: Prototype](https://www.interaction-design.org/literature/article/stage-4-in-the-design-thinking-process-prototype)
-* [What Sketches (and Prototypes) Are and Are Not](https://www.cs.cmu.edu/~bam/uicourse/Buxton-SketchesPrototypes.pdf)
-
-## Champion(s)
+## Champion
 
 * [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)
 
