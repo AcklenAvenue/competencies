@@ -15,8 +15,6 @@ Welcome, Design Adventurer! Read the following instructions to begin your journe
 
 Badges will have the following champions: 
 
-* [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com)
-* [Fernando Guevara](mailto:fernando@acklenavenue.com)
-
+* [Wendy Vargas](mailto:wendy.vargas@acklenavenue.com),[Fernando Guevara](mailto:fernando@acklenavenue.com)
 * If you see 2 champions in a badge, make sure to schedule a session that includes them both. 
 * If you read all of the above, claim this badge and continue!

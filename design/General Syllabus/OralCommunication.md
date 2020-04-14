@@ -1,8 +1,8 @@
-# Oral Communication
+# Design Speaker
 
 ## Competencies:
-* Able to ask the right questions in order to receive quality feedback.
-* Able to receive and accept feedback in order to improve your work and skills.
+* Able to present and communicate your ideas and contributions clearly and effectively.
+* Able to lead a session and communicate with all participants. 
 
 ## Evaluation:
 * Complete the following course: [Speak in Public](https://openclassrooms.com/en/courses/5253451-speak-in-public)
