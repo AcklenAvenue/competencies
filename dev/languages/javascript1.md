@@ -13,5 +13,5 @@
 1. Please take the following exam: [https://the-javascript-exam.herokuapp.com/](https://the-javascript-exam.herokuapp.com/).
 2. If you scored at least a 50,
 
-- send results to the badge champion
-- claim the badge
+- Claim the Badge
+- Include screen shot URL or link to results as evidence

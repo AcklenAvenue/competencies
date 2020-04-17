@@ -13,5 +13,5 @@
 1. Please take the following exam: [https://www.tutorialspoint.com/csharp/csharp_online_test.htm](https://www.tutorialspoint.com/csharp/csharp_online_test.htm)
 2. If you scored at least a 80%,
 
-- send results to the badge champion
-- claim the badge
+- Claim the Badge
+- Include screen shot URL or link to results as evidence
