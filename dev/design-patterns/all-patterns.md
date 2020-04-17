@@ -22,7 +22,7 @@ To prove your mastery of this pattern, please complete BOTH 1 and 2.
 
 2. Demonstrate your ability to teach/mentor others (one of the following):
 
-   - Schedule a 30-minute session with the related badge champion. You will need to be able to discuss the design pattern freely and/or demonstrate the design pattern in live coding.
+- Schedule a 30-minute session with the related badge champion. You will need to be able to discuss the design pattern freely and/or demonstrate the design pattern in live coding.
 
 or
 
