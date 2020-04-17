@@ -1,4 +1,6 @@
-# Adapter Pattern Master
+# [Design] Pattern Master
+
+This criteria serves as the badge criteria for all design patterns.
 
 ### Champion
 
