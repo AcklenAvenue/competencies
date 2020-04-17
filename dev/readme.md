@@ -4,3 +4,4 @@
 - [Front-end](frontend)
 - [Back-end](backend)
 - [Languages](languages)
+- [Design Patterns](design-patterns)
