@@ -9,7 +9,7 @@
 * You will code at least 2 repeatable components during your session. 
 * Schedule a 30-minute session with the related badge champion. You will need to be able to discuss and/or demonstrate the competencies above freely. 
 
-## Suggested Learning for begginners:
+## Suggested Learning for beginners:
 * Complete:[Introduction to HTML](https://www.codecademy.com/learn/learn-html)
 * Complete: [Learn CSS](https://www.codecademy.com/learn/learn-css)
 * Complete: [Make a Website](https://www.codecademy.com/learn/make-a-website)
@@ -26,4 +26,4 @@
 * [Fernando Guevara](mailto:fernando@acklenavenue.com)
 
 ## Claiming Your Badge:
-When the badge champion authorizes it, you may click the link to claim the badge.
+When the badge champion authorizes it, you may click the link to claim the badge in Badgr.

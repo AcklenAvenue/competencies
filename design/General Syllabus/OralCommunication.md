@@ -6,7 +6,8 @@
 
 ## Evaluation:
 * Complete the following course: [Speak in Public](https://openclassrooms.com/en/courses/5253451-speak-in-public)
-* Select a UX topic that appeals to you. Create a 20-minute presentation about it. Must be in English.
+* Read: [The relationship between design deliverables and presentation skills](https://uxdesign.cc/the-relationship-between-design-deliverables-and-presentation-skills-56c713694446)
+* Select a UX topic that appeals to you. Create a 20-minute presentation about it to present during your evaluation. Must be in English.
 * Schedule a 30-minute session with the related badge champion. You will need to be able to discuss and/or demonstrate the competencies above freely. 
 
 ## Champions
