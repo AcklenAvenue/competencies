@@ -2,17 +2,20 @@
 
 ## Competencies
 
-- Is able to explain what’s a development cycle
-- Is able to set a pair session with a teammate
-- Is able to participate on grooming sessions, retrospective and stand up meetings
+- Is able to explain what happens throughout Acklen Avenue’s Development Process.
+- Is able to describe how Bugs, Rework, and Blocked Cards are managed on the board.
+- Is able to how Grooming Stories works.
+- Is able to what’s the meaning of the labels that the team adds to cards.
+- Is able to describe how each part of the team acts on the Daily Team Meetings. 
+
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Champion
-Pending.
+Ronald Doblado 
+ronald@acklenavenue.com
 
 ## Suggested Learning
 
- - [https://www.smartsheet.com/understanding-agile-software-development-lifecycle-and-process-workflow](https://www.smartsheet.com/understanding-agile-software-development-lifecycle-and-process-workflow)
- - [http://acklen.talentlms.com/unit/view/id:2262](http://acklen.talentlms.com/unit/view/id:2262)
+ - [Acklen Avenue Trello Board Guidance](https://docs.google.com/document/d/1DoxWwlWOq0agOpT3wHvT9sUyTfOXWwbdh1RYkrpV4s4/edit?usp=sharing)
