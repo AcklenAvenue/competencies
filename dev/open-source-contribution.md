@@ -2,6 +2,10 @@
 
 As developers, we consume and benefit from open-source software every day. To be socially responsible as software developers, we need to give back to the community that makes us so productive. 
 
+## Champion
+
+Byron Sommardahl - [Schedule](https://calendly.com/sommardahl/30min)
+
 ## Requirements:
 - Evidence of one non-trivial contribution to an open-source software project (ex: code or documentation). 
 - Acceptable evidence: Pull/Merge Request link
