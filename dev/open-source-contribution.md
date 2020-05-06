@@ -7,9 +7,15 @@ As developers, we consume and benefit from open-source software every day. To be
 Byron Sommardahl - [Schedule](https://calendly.com/sommardahl/30min)
 
 ## Requirements:
-- Evidence of one non-trivial contribution to an open-source software project (ex: code or documentation). 
+- Evidence of one non-trivial contribution to a popular open-source software project (ex: code or documentation). 
 - Acceptable evidence: Pull/Merge Request link
 - Only one open-source contribution per month will be accepted
+
+## What is considered a "popular" open-source project for this badge?
+- A project with community around it (example: more than 50 stars in github)
+- A project with issues and/or pull-requests from multiple people in the community (not from the same company)
+
+If you would like to submit your personal project for this badge, you should get the approval as an official open-source project from a company like Jetbrains who will happily evaluate your project.
 
 ## Evaluation:
 - Send evidence of open-source contribution to your mentor via email or slack. 
