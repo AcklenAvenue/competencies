@@ -1,5 +1,5 @@
-#Go Lang Mastery Badge
-###Competencies
+# Go Lang Mastery Badge
+### Competencies
 - Describe language characteristics
 - Be able to answer what is Go, good at?
 - Be able to install Go Tools
