@@ -1,4 +1,4 @@
-# Toolbox Mastery
+# Vision and Values
 ​
 ## Instructions:
 * Copy the class code qd4an7e
