@@ -7,7 +7,7 @@ As developers, we consume and benefit from open-source software every day. To be
 Byron Sommardahl - [Schedule](https://calendly.com/sommardahl/30min)
 
 ## Requirements:
-- Evidence of one non-trivial contribution to a popular open-source software project (ex: code or documentation). 
+- Evidence of one non-trivial contribution to a popular open-source software project (ex: code or documentation) that has been merged by the core team. 
 - Acceptable evidence: Pull/Merge Request link
 - Only one open-source contribution per month will be accepted
 
