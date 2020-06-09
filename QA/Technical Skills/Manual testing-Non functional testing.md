@@ -2,14 +2,16 @@
 
 ## Competencies
 
-- Is able to explain what’s non-functional testing
-- Is able to perform simple non-functional testing
+- Is able to explain what is non-functional testing
+- Is able to list different types of non-fuctional testing and explain them
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
-## Subject matter expert
-Pending.
+## Champion
+Kerlyn Bustillo
+kerlynbustillo@acklenavenue.com
+https://calendly.com/kerlynbustillo
 
 ## Suggested Learning
 
