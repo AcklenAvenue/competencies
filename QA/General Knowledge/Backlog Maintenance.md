@@ -4,8 +4,8 @@
 
 - Is able to explain what happens throughout Acklen Avenue’s Development Process.
 - Is able to describe how Bugs, Rework, and Blocked Cards are managed on the board.
-- Is able to how Grooming Stories works.
-- Is able to what’s the meaning of the labels that the team adds to cards.
+- Is able to describe how Grooming Stories works.
+- Is able to describe what’s the meaning of the labels that the team adds to cards.
 - Is able to describe how each part of the team acts on the Daily Team Meetings. 
 
 
