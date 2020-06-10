@@ -16,6 +16,8 @@ When you feel that you have mastered the competencies above, and you're ready fo
 Ronald Doblado 
 ronald@acklenavenue.com
 
+Please schedule a time with me via this [link](https://calendly.com/ronalddoblado/15min).
+
 ## Suggested Learning
 
  - [Acklen Avenue Trello Board Guidance](https://docs.google.com/document/d/1DoxWwlWOq0agOpT3wHvT9sUyTfOXWwbdh1RYkrpV4s4/edit?usp=sharing)
