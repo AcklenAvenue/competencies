@@ -2,13 +2,14 @@
 
 ## Competencies
 
- - Is able to execute an exploratory test without any documentation
+- Differentiate between exploratory testing and other types of testing
+- Plan and execute exploratory tests without the need for any documentation
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Champion
-Pending.
+Ambar Suarez - [ambarsuarez@acklenavenue.com](mailto:ambarsuarez@acklenavenue.com)
 
 ## Suggested Learning
 
