@@ -12,10 +12,8 @@
 ## Evaluation
 * Complete Remote Professional Course in Google Classroom. Class code: xswjqfe
 
-## Claim Badges
-* https://badge-claim.herokuapp.com/badgeid/tOF9eApiR664olfo5lfeVg
 
-## Learning Resources
+## Suggested Learning 
 * https://www.forbes.com/sites/theyec/2018/01/03/six-ways-to-succeed-at-remote-work/#60bd1195a6ed
 * https://remoteyear.com/blog/top-8-remote-work-tips
 * https://blog.proven.com/remote-work
