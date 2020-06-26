@@ -17,5 +17,8 @@ Pending.
 
 ## Suggested Learning
 
- - [http://acklen.talentlms.com/unit/view/id:3302](http://acklen.talentlms.com/unit/view/id:3302)
- ------Example------
+ - [https://support.smartbear.com/cucumberstudio/docs/tests/track-execution.html](https://support.smartbear.com/cucumberstudio/docs/tests/track-execution.html)
+ - [https://support.smartbear.com/cucumberstudio/docs/projects/index.html](https://support.smartbear.com/cucumberstudio/docs/projects/index.html)
+ - [https://support.smartbear.com/cucumberstudio/docs/projects/organize.html](https://support.smartbear.com/cucumberstudio/docs/projects/organize.html)
+ - [https://support.smartbear.com/cucumberstudio/docs/tests/best-practices.html](https://support.smartbear.com/cucumberstudio/docs/tests/best-practices.html)
+ 

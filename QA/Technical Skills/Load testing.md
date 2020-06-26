@@ -14,5 +14,7 @@ Pending.
 
 ## Suggested Learning
 
- - [https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience](https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience)
- -----Example-----
+ - [https://www.guru99.com/load-testing-tutorial.html](https://www.guru99.com/load-testing-tutorial.html)
+ - [https://docs.google.com/presentation/d/1cYHHsbYTE5Qqksi8wWfl3mnUj3r8gMWTzKs-rKTINIM/edit#slide=id.g2ccdb10d7e_1_96](https://docs.google.com/presentation/d/1cYHHsbYTE5Qqksi8wWfl3mnUj3r8gMWTzKs-rKTINIM/edit#slide=id.g2ccdb10d7e_1_96)
+ - [https://docs.google.com/presentation/d/1xwpHUAKE1EsQMq8lmBiixM6MJ_74tpBqr0yFqN7ZxaY/edit#slide=id.g6e8a7455fb_0_9](https://docs.google.com/presentation/d/1xwpHUAKE1EsQMq8lmBiixM6MJ_74tpBqr0yFqN7ZxaY/edit#slide=id.g6e8a7455fb_0_9)
+ - [https://www.youtube.com/watch?v=M-iAXz8vs48&list=PLhW3qG5bs-L-zox1h3eIL7CZh5zJmci4c](https://www.youtube.com/watch?v=M-iAXz8vs48&list=PLhW3qG5bs-L-zox1h3eIL7CZh5zJmci4c)

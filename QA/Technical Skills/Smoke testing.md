@@ -13,5 +13,5 @@ Pending.
 
 ## Suggested Learning
 
- - [https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience](https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience)
- -----example-------
+ - [https://www.guru99.com/smoke-testing.html](https://www.guru99.com/smoke-testing.html)
+ - [https://www.youtube.com/watch?v=YrqAtfdrrBQ](https://www.youtube.com/watch?v=YrqAtfdrrBQ)
