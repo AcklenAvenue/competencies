@@ -2,7 +2,7 @@
 
 ## Competencies
 
-- Is able to explain what’s a API test
+- Is able to explain what’s an API test
 - Is able to manually test an API
 - Is able to explain the differences between calling methods (GET, POST, PUT, DELETE, etc)
 
@@ -14,5 +14,5 @@ Pending.
 
 ## Suggested Learning
 
- - [https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience](https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience)
- -----Example-----
+ - [https://www.guru99.com/api-testing.html](https://www.guru99.com/api-testing.html)
+ - [https://www.youtube.com/watch?v=t5n07Ybz7yI](https://www.youtube.com/watch?v=t5n07Ybz7yI)

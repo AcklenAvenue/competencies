@@ -15,5 +15,6 @@ Pending.
 
 ## Suggested Learning
 
- - [https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience](https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience)
- -----Example-----
+ - [https://www.youtube.com/watch?v=1o_msdu6sIo](https://www.youtube.com/watch?v=1o_msdu6sIo)
+ - [https://www.ministryoftesting.com/dojo/lessons/how-to-do-good-regression-testing](https://www.ministryoftesting.com/dojo/lessons/how-to-do-good-regression-testing)
+ - [https://www.infoq.com/articles/regression-testing-strategies/](https://www.infoq.com/articles/regression-testing-strategies/)

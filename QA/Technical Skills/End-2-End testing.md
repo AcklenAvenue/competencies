@@ -13,5 +13,4 @@ Pending.
 
 ## Suggested Learning
 
- - [https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience](https://www.crazyegg.com/blog/user-experience-testing/#what-is-user-experience)
- -----Example-----
+ - [https://www.softwaretestinghelp.com/what-is-user-acceptance-testing-uat/](https://www.softwaretestinghelp.com/what-is-user-acceptance-testing-uat/)
