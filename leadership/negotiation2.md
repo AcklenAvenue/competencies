@@ -17,11 +17,9 @@
 
 ## Suggested Learning Resources
 
-* ["Using Negotiating Techniques to Reach Agreements](https://app.pluralsight.com/library/courses/using-negotiating-techniques-reach-agreements/) by Pluralsight
-* https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/
-* https://www.coursera.org/learn/negotiation-skills/
-* https://www.coursera.org/learn/negotiation-fundamentals
-* https://www.coursera.org/learn/negotiation
-* https://www.coursera.org/specializations/negotiation-mediation-conflict-resolution
-* https://www.coursera.org/learn/leadership-collaboration
-* https://cropwatch.unl.edu/2018/gold-star-negotiations-applying-ackerman-bargaining-method
+* [Using Negotiating Techniques to Reach Agreements](https://app.pluralsight.com/library/courses/using-negotiating-techniques-reach-agreements/) by Pluralsight
+* [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/) by R. Fisher & W. Ury
+* [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills/) by Coursera
+* [Negotiation Fundamentals](https://www.coursera.org/learn/negotiation-fundamentals) by Coursera
+* [Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator](https://www.coursera.org/learn/negotiation) by Coursera
+* [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration) by Coursera
