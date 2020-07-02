@@ -30,4 +30,4 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 
 ## Badge
-After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/knmJFO2wRUi7J3igNU62iQ).
+After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/knmJFO2wRUi7J3igNU62iQ).

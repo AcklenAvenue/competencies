@@ -25,4 +25,4 @@
 - [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/5/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/5/module/341)
 
 ## Badge
-After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/x4CoHpkLQkuKODGCReRXdg).
+After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/x4CoHpkLQkuKODGCReRXdg).

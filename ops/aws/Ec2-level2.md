@@ -32,4 +32,4 @@ Diego Turcios - Email: diego.turcios@acklenavenue.com
 
 
 ## Badge
- After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/kDKDZXHZSj-9kh3jZdAF_Q).
+ After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/kDKDZXHZSj-9kh3jZdAF_Q).

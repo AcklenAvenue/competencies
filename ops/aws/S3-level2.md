@@ -29,4 +29,4 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 
 
 ## Badge
-After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/4lLoaxIzTdiMQOgSGXG25w).
+After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/4lLoaxIzTdiMQOgSGXG25w).
