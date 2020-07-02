@@ -6,7 +6,7 @@ You will be able to:
     - Benefits of using docker
     - Differences between using docker in development and production enviroments
     - Anatomy and structure of a dockerfile
- - Install and configure Docker in a development enviroment 
+ - Install and configure Docker in a development enviroment
  - Manage a docker image
  - Understand and create a dockerfile
  - Create and delete a container
@@ -22,4 +22,4 @@ Hector Rosales - Email: hector.rosales@acklenavenue.com
 - [https://linuxacademy.com/cp/modules/view/id/284](https://linuxacademy.com/cp/modules/view/id/284)
 
 ## Claim Badge:
-Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/0sHNb_A0Tq2doLqo011otQ](link):
+Pleas claim your badge using this [https://acklenavenue.badgr.com/public/badges/0sHNb_A0Tq2doLqo011otQ](link):

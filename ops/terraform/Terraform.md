@@ -6,10 +6,10 @@ Be able to:
  - Understand why we use terraform
  - Understand the differences between terraform and cloudformation
  - Read and use the terraform documentation   
- - Be able to use the plan/apply terraform commands 
+ - Be able to use the plan/apply terraform commands
  - Be able to fix errors when planning or applying terraform commands
  - Be able to do the following using terraform and the AWS provider:
-    - Provision an EC2 instance 
+    - Provision an EC2 instance
     - Crete/modify security groups
     - Use variables for managing resources
 
@@ -25,4 +25,4 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 - [https://www.youtube.com/watch?v=RA1mNClGYJ4&t=543s](https://www.youtube.com/watch?v=RA1mNClGYJ4&t=543s)
 
 ## Badge
- After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/hfbx4FSdQXmBOQmutCDqOw).
+ After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/hfbx4FSdQXmBOQmutCDqOw).
