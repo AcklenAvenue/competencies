@@ -23,4 +23,4 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 - [https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/7/module/341](https://linuxacademy.com/cp/courses/lesson/course/4446/lesson/7/module/341)
 
 ## Badge
-After you have been evaluated you can claim the badge using [this link](https://badge-claim.herokuapp.com/badgeid/83l7qtKrSkuOwnAdpUdrAg).
+After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/83l7qtKrSkuOwnAdpUdrAg).

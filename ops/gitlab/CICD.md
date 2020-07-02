@@ -29,4 +29,4 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 - [https://www.youtube.com/watch?v=Jav4vbUrqII](https://www.youtube.com/watch?v=Jav4vbUrqII)
 
 ## Claim Badge:
-Pleas claim your badge using this [https://badge-claim.herokuapp.com/badgeid/z_8SvW44Shm2_87tQmQ3EQ](link):
+Pleas claim your badge using this [link](https://acklenavenue.badgr.com/public/badges/z_8SvW44Shm2_87tQmQ3EQ):

@@ -15,7 +15,7 @@
 Hector Rosales - Email: hector.rosales@acklenavenue.com
 
 ## Claim Badge
-To claim the badge use this [link](https://badge-claim.herokuapp.com/badgeid/bLBBJ7UEQDeImD9C8bwj4A).
+To claim the badge use this [link](https://acklenavenue.badgr.com/public/badges/bLBBJ7UEQDeImD9C8bwj4A).
 
 ## Suggested Learning
 
