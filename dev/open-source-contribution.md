@@ -13,7 +13,8 @@ Byron Sommardahl - [Schedule](https://calendly.com/sommardahl/30min)
 
 ## What is considered a "popular" open-source project for this badge?
 - A project with community around it (example: more than 50 stars in github)
-- A project with issues and/or pull-requests from multiple people in the community (not from the same company)
+- A project with issues and/or pull-requests from multiple people in the community
+- An existing Acklen Avenue open-source project (boilerplates and libraries). (not exactly popular to the rest of the world, but they are to us!) 
 
 If you would like to submit your personal project for this badge, you should get the approval as an official open-source project from a company like Jetbrains who will happily evaluate your project.
 
