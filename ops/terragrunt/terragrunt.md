@@ -35,4 +35,4 @@ to schedule a 30 minutes session.
 - [Terragrunt Tutorial](https://www.youtube.com/watch?v=GrFDB0cUv-Q&list=PL_OdF9Z6GmVbx19v8h_iq9qapprNxt-hf)
 
 ### Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/R_33GnRRRM2SmMUPlq2bFQ)

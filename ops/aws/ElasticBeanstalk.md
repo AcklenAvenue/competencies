@@ -27,4 +27,4 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
  - [https://linuxacademy.com/cp/courses/lesson/course/4480/lesson/1/module/341](https://linuxacademy.com/cp/courses/lesson/course/4480/lesson/1/module/341)
 
 ## Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/8_N1xeRlQYep1e6docrSVQ)

@@ -30,4 +30,4 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 
 ## Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/knmJFO2wRUi7J3igNU62iQ)

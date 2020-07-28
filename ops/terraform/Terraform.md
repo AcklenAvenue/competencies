@@ -25,4 +25,4 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 - [https://www.youtube.com/watch?v=RA1mNClGYJ4&t=543s](https://www.youtube.com/watch?v=RA1mNClGYJ4&t=543s)
 
 ### Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/hfbx4FSdQXmBOQmutCDqOw)

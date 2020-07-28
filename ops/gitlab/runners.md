@@ -18,4 +18,4 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 - [https://docs.gitlab.com/runner/](https://docs.gitlab.com/runner/)
 
 ## Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/0tTn90hfTB--orZ93Tw7lw)

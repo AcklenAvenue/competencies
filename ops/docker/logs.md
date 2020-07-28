@@ -23,4 +23,4 @@ Héctor Rosales - Email: hector.rosales@acklenavenue.com
 	- [https://app.linuxacademy.com/hands-on-labs/950fb2d7-9a5f-4136-86b4-cae2876bd193](https://app.linuxacademy.com/hands-on-labs/950fb2d7-9a5f-4136-86b4-cae2876bd193)
 
 ## Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/De6mNXmAQuW75FwR3yONSg)
