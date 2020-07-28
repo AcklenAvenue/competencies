@@ -24,5 +24,5 @@
 - [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/4/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/4/module/341)
 - [https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/5/module/341](https://linuxacademy.com/cp/courses/lesson/course/4465/lesson/5/module/341)
 
-## Badge
-After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/x4CoHpkLQkuKODGCReRXdg).
+## Claim Badge:
+Please click the **Claim Badge** button below *(Chrome extension required)*

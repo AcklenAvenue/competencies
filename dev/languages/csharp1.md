@@ -15,3 +15,6 @@
 
 - Claim the Badge
 - Include screen shot URL or link to results as evidence
+
+### Claim Badge:
+Please click the **Claim Badge** button below *(Chrome extension required)*

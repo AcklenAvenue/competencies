@@ -24,5 +24,5 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 - [https://app.linuxacademy.com/hands-on-labs/340963f9-b07f-4cb9-b3b1-f7f225eb815e?redirect_uri=https:%2F%2Flinuxacademy.com%2Fcp%2Fmodules%2Fview%2Fid%2F358](https://app.linuxacademy.com/hands-on-labs/340963f9-b07f-4cb9-b3b1-f7f225eb815e?redirect_uri=https:%2F%2Flinuxacademy.com%2Fcp%2Fmodules%2Fview%2Fid%2F358)
 - [https://www.youtube.com/watch?v=RA1mNClGYJ4&t=543s](https://www.youtube.com/watch?v=RA1mNClGYJ4&t=543s)
 
-## Badge
- After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/hfbx4FSdQXmBOQmutCDqOw).
+### Claim Badge:
+Please click the **Claim Badge** button below *(Chrome extension required)*
