@@ -15,3 +15,6 @@
 
 - Claim the Badge
 - Include screen shot URL or link to results as evidence
+
+### Claim Badge:
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/Qup2615jQoi0WAdyO97zPw)

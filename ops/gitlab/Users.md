@@ -21,4 +21,4 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 - [https://docs.gitlab.com/ee/user/profile/account/create_accounts.html](https://docs.gitlab.com/ee/user/profile/account/create_accounts.html)
 
 ## Claim Badge:
-Pleas claim your badge using this [link](https://acklenavenue.badgr.com/public/badges/4pmxwrSWQTGuf9fB90V3fA):
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/4pmxwrSWQTGuf9fB90V3fA)

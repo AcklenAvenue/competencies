@@ -28,5 +28,5 @@ Luis Espinoza - Email: luis.espinoza@acklenavenue.com
 - [https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html](https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html)
 
 
-## Badge
-After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/4lLoaxIzTdiMQOgSGXG25w).
+## Claim Badge:
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/4lLoaxIzTdiMQOgSGXG25w)

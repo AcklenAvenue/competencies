@@ -12,10 +12,7 @@
  When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-Hector Rosales - Email: hector.rosales@acklenavenue.com
-
-## Claim Badge
-To claim the badge use this [link](https://acklenavenue.badgr.com/public/badges/bLBBJ7UEQDeImD9C8bwj4A).
+[Hector Rosales](mailto:hector.rosales@acklenavenue.com)
 
 ## Suggested Learning
 
@@ -23,8 +20,6 @@ To claim the badge use this [link](https://acklenavenue.badgr.com/public/badges/
 - [https://linuxacademy.com/cp/courses/lesson/course/4458/lesson/2/module/341](https://linuxacademy.com/cp/courses/lesson/course/4458/lesson/2/module/341)
 - [https://linuxacademy.com/cp/courses/lesson/course/4458/lesson/4/module/341](https://linuxacademy.com/cp/courses/lesson/course/4458/lesson/4/module/341)
 
-# Route 53 Mastery Badge Level 2
+## Claim Badge:
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/bLBBJ7UEQDeImD9C8bwj4A)
 
-## Competencies
-
- -

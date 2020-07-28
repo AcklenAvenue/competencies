@@ -23,5 +23,5 @@ Diego Turcios - Email: diego.turcios@acklenavenue.com
  - [https://www.youtube.com/watch?v=1q1zBkz0CQE](https://www.youtube.com/watch?v=1q1zBkz0CQE)
  - [https://linuxacademy.com/cp/courses/lesson/course/4449/lesson/1/module/341](https://linuxacademy.com/cp/courses/lesson/course/4449/lesson/1/module/341)
 
-## Badge
- After you have been evaluated you can claim the badge using [this link](https://acklenavenue.badgr.com/public/badges/idKzjg9cSoadWnPnEKOVww).
+## Claim Badge:
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/idKzjg9cSoadWnPnEKOVww)
