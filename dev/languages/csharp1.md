@@ -17,4 +17,4 @@
 - Include screen shot URL or link to results as evidence
 
 ### Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/Qup2615jQoi0WAdyO97zPw)

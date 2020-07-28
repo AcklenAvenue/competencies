@@ -64,4 +64,4 @@ to schedule a 30 minute session.
 - [https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents)
 
 ### Claim Badge:
-Please click the **Claim Badge** button below *(Chrome extension required)*
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/IZ7ZlqkjRRmqlbAy9cXHQw)
