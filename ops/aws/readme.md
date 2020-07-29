@@ -15,3 +15,6 @@ AWS
 * S3
    - [S3 Level 1](S3.md)
    - [S3 Level 2](S3-level2.md)
+* Lambda
+   - [Lambda Level 1](lambda1.md)
+   - [Lambda Level 2](lambda2.md)

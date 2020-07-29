@@ -22,8 +22,8 @@ feel you are ready to be evaluated, please contact the badge champion
 to schedule a 30 minute session.
 
 ### Suggested Learning:
-- https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda
-- https://aws.amazon.com/lambda/getting-started/
+- [https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda](https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda)
+- [https://aws.amazon.com/lambda/getting-started/](https://aws.amazon.com/lambda/getting-started/)
 
 ### Claim Badge:
 After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/q4_LajIiQs2d-Z9ReDmASA)
