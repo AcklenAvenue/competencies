@@ -30,4 +30,4 @@ to schedule a 30 minute session.
 - https://dataprocessing.wildrydes.com/
 
 ### Claim Badge:
-After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/q4_LajIiQs2d-Z9ReDmASA)
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/pHXeq0MQT9a-Jj6tJOFaQQ)
