@@ -4,7 +4,7 @@
 You will be able to:
  - Understand the following docker concepts:
     - Benefits of using docker
-    - Differences between using docker in development and production enviroments
+    - Differences between using docker in local, staging and production enviroments
     - Anatomy and structure of a dockerfile
  - Install and configure Docker in a development enviroment
  - Manage a docker image
