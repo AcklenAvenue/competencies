@@ -1,5 +1,5 @@
 
-# Docker Mastery Badge Level 1
+# Docker Logs Mastery Badge
 
 ## Competencies
 - Understand what is docker.
