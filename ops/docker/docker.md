@@ -1,4 +1,4 @@
-# Docker Mastery Badge Level 1
+# Docker Mastery Badge Basics
 
 ## Competencies
 You will be able to:
