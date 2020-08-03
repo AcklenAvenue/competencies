@@ -1,4 +1,8 @@
 # Go Lang Mastery Badge
+### Champion
+
+- [Byron Sommardahl](mailto:byron@acklenavenue.com)
+
 ### Competencies
 - Describe language characteristics
 - Be able to answer what is Go, good at?
@@ -61,7 +65,11 @@
     - Parsing JSON with Go
 
 ## Evaluation
-- TBD
+You will be evaluated in this area to determine if you are have achieved 
+mastery. The evaluation will be done via 
+guided conversation with the badge champion listed above. When you 
+feel you are ready to be evaluated, please contact the badge champion 
+to schedule a 30 minute session.
 
 ## Suggested Learning
 - https://app.pluralsight.com/library/courses/getting-started-with-go
@@ -73,7 +81,7 @@
 - https://www.openmymind.net/The-Little-Go-Book/
 
 ## Claim Badge
-- TBD
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/vmoouQFqTJ-oHew2IDd_jA)
 
 
 

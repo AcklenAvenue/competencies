@@ -7,7 +7,7 @@
 ### Competencies:
 
 - You should be able to…
-    - Identify the different primitive types (undefined, null, boolean, strings, symbol, number, and object)
+    - Identify the different primitive types
     - Understand/use typeof operator
     - Understand how BigInt differs from other numbers
     - Define concepts of emptiness 
@@ -29,21 +29,11 @@
     - Define/use IIFE pattern
     - Create block scoping
     - Identify the potential issues and benefits of using const
-    - Define and utilize hoisting with functions and variables
-    - Define what it means to close over variables
-    - Identify incompatibility issues with the ES6 module system and Node.js
-    - Differentiates implicit binding vs explicit binding
-    - Invoke a function with the default binding in non-strict mode and strict mode
-    - Define a class and outlines its capabilities
-    - Identify the relationships within JavaScript's prototype system
-    - Define dunder prototypes
-    - Link prototypes to each other
-    - Use a design pattern involving linked objects
 
 ### Evaluation:
 
-You will be evaluated in this area to determine if you are ready to 
-pass to the next level. For this topic, evaluation will be done via 
+You will be evaluated in this area to determine if you are have achieved 
+mastery. The evaluation will be done via 
 guided conversation with the badge champion listed above. When you 
 feel you are ready to be evaluated, please contact the badge champion 
 to schedule a 30 minute session.
