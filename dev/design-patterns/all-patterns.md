@@ -36,3 +36,17 @@ When you have completed your evaluation requirements, please claim the badge inc
 - https://app.pluralsight.com/library/courses/tactical-design-patternsdot-net/table-of-contents
 - https://app.pluralsight.com/library/courses/design-patterns-java-creational/table-of-contents
 - https://app.pluralsight.com/library/courses/design-patterns-java-behavioral/table-of-contents
+
+### Claim Badge:
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* for each pattern
+at its badge page, the links are bellow:
+
+- [Adapter Pattern](https://acklenavenue.badgr.com/public/badges/-AXf3JrPSsKZ50-qiMj2xA)
+- [Strategy Pattern](https://acklenavenue.badgr.com/public/badges/X9R3b7psSiGDA4OowV9Wpw)
+- [Factory Pattern](https://acklenavenue.badgr.com/public/badges/nUc4w7LAQmuedbWl7USONA)
+- [Observer Pattern](https://acklenavenue.badgr.com/public/badges/yn-pmrLfQ_emwvMvrOlflA)
+- [Singleton Pattern](https://acklenavenue.badgr.com/public/badges/pd1kzb9IRyCO0NBkaNFsGg)
+- [Decorator Pattern](https://acklenavenue.badgr.com/public/badges/TBx0LWp6Sb-bMvCJDGiwFA)
+- [Proxy Pattern](https://acklenavenue.badgr.com/public/badges/O7I8DLlVR4CucMGM1aGNfw)
+- [Mediator Pattern](https://acklenavenue.badgr.com/public/badges/gU1AH_hsTUe2b_2O2NC7cA)
+- [Observer Pattern](https://acklenavenue.badgr.com/public/badges/yn-pmrLfQ_emwvMvrOlflA)
