@@ -22,4 +22,4 @@ Hector Rosales - Email: hector.rosales@acklenavenue.com
 - [https://linuxacademy.com/cp/modules/view/id/284](https://linuxacademy.com/cp/modules/view/id/284)
 
 ## Claim Badge:
-After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/De6mNXmAQuW75FwR3yONSg)
+After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/0sHNb_A0Tq2doLqo011otQ)
