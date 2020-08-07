@@ -10,7 +10,7 @@ You will be able to:
  - Manage a docker image
  - Understand and create a dockerfile
  - Create and delete a container
- - Redirect, using docker container ports
+ - Understand Docker runtime isolation
 
 ## Evaluation
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
