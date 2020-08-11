@@ -6,10 +6,12 @@ You will be able to  :
   - Setup a static website
   - Set up permissions:
       - Create a public bucket
-      - Setup permission to specific objects
-  - Transfer data to S3
-  - Explain the S3 concepts of encryption
+      - Setup permission to specific objects using bucket policies and AWS management console
+  - Be able to identify the transfer types in S3 AWS.
+  - Transfer data to S3 using AWS CLI and AWS management console
+  - Create Presigned URLs to give public access to specific objects
   - Upload objects using Presigned URLs
+  - Explain the S3 concepts of encryption
 
 ## Evaluation
 
