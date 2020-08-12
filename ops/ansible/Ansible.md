@@ -2,11 +2,10 @@
 
 ## Competencies
 Be able to:
- - Understand the following ansible concpets:
-    - Why we need to used ansbile
+ - Understand the following ansible concepts:
+    - Why we need to use ansible
     - Benefits of ansible
     - Anatomy of an ansible playbook
-    - Structure of an inventory file
  - Install ansible on the control host.
  - Create/Update an inventory file.
  - Write an ansible playbook, that installs a package in the inventory machines.
