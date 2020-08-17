@@ -5,7 +5,7 @@ In this level #2, you will begin your process for taking the AWS Certified Solut
 You will be able to  :
   - Setup a static website
   - Set up permissions:
-      - Create a public bucket
+      - Know the procedure to set up permissions on S3 buckets
       - Setup permission to specific objects using bucket policies and AWS management console
   - Be able to identify the transfer types in S3 AWS.
   - Transfer data to S3 using AWS CLI and AWS management console
