@@ -12,23 +12,14 @@ This criteria serves as the badge criteria for all design patterns.
 - Know when the pattern is appropriate
 - Able to implement the pattern correctly from memory
 - Able to implement the pattern using TDD (unit tests first)
-- Has masterfully implemented the pattern in production code
 
 ### Evaluation:
 
-To prove your mastery of this pattern, please complete BOTH 1 and 2.
-
-1. Demonstrate your use of the pattern in production code with unit tests. A link to a commit/- PR from git is a great way to do this.
-
-2. Demonstrate your ability to teach/mentor others (one of the following):
-
-- Schedule a 30-minute session with the related badge champion. You will need to be able to discuss the design pattern freely and/or demonstrate the design pattern in live coding.
+1. Schedule a 30-minute session with the related badge champion. You will need to be able to discuss the design pattern freely and/or demonstrate the design pattern in live coding (with TDD).
 
 or
 
-- Produce learning materials or significant community content with the purpose of educating other developers in the design pattern. The badge champion for the design pattern will evaluate your submission and may choose to forego the conversational evaluation.
-
-When you have completed your evaluation requirements, please claim the badge including links to your evidence.
+2. Produce learning materials or significant community content with the purpose of educating other developers in the design pattern. The badge champion for the design pattern will evaluate your submission and may choose to forego the conversational/live coding evaluation.
 
 ### Suggested Learning
 
@@ -36,17 +27,3 @@ When you have completed your evaluation requirements, please claim the badge inc
 - https://app.pluralsight.com/library/courses/tactical-design-patternsdot-net/table-of-contents
 - https://app.pluralsight.com/library/courses/design-patterns-java-creational/table-of-contents
 - https://app.pluralsight.com/library/courses/design-patterns-java-behavioral/table-of-contents
-
-### Claim Badge:
-After you evaluation please click the **Claim Badge** button *(Chrome extension required)* for each pattern
-at its badge page, the links are bellow:
-
-- [Adapter Pattern](https://acklenavenue.badgr.com/public/badges/-AXf3JrPSsKZ50-qiMj2xA)
-- [Strategy Pattern](https://acklenavenue.badgr.com/public/badges/X9R3b7psSiGDA4OowV9Wpw)
-- [Factory Pattern](https://acklenavenue.badgr.com/public/badges/nUc4w7LAQmuedbWl7USONA)
-- [Observer Pattern](https://acklenavenue.badgr.com/public/badges/yn-pmrLfQ_emwvMvrOlflA)
-- [Singleton Pattern](https://acklenavenue.badgr.com/public/badges/pd1kzb9IRyCO0NBkaNFsGg)
-- [Decorator Pattern](https://acklenavenue.badgr.com/public/badges/TBx0LWp6Sb-bMvCJDGiwFA)
-- [Proxy Pattern](https://acklenavenue.badgr.com/public/badges/O7I8DLlVR4CucMGM1aGNfw)
-- [Mediator Pattern](https://acklenavenue.badgr.com/public/badges/gU1AH_hsTUe2b_2O2NC7cA)
-- [Observer Pattern](https://acklenavenue.badgr.com/public/badges/yn-pmrLfQ_emwvMvrOlflA)
