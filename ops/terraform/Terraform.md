@@ -10,7 +10,7 @@ Be able to:
  - Be able to fix errors when planning or applying terraform commands
  - Be able to do the following using terraform and the AWS provider:
     - Provision an EC2 instance
-    - Crete/modify security groups
+    - Create/modify security groups
     - Use variables for managing resources
 
 
