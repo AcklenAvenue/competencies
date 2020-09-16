@@ -4,8 +4,7 @@
 Be able to:
  - Understand the benefits of infraestructure as code
  - Understand why we use terraform
- - Understand the differences between terraform and cloudformation
- - Read and use the terraform documentation   
+ - Understand the differences between terraform and cloudformation  
  - Be able to use the plan/apply terraform commands
  - Be able to fix errors when planning or applying terraform commands
  - Be able to do the following using terraform and the AWS provider:
