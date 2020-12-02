@@ -10,8 +10,8 @@
 
 ### Evaluation:
 
-1. Please take the following exam: [https://the-javascript-exam.herokuapp.com/](https://the-javascript-exam.herokuapp.com/).
-2. If you scored at least a 50,
+1. Please take the [JavaScript Exam](https://www.studysection.com/javascript-programming-advanced).
+2. If you scored at least a 56%,
 
 - Claim the Badge
 - Include screen shot URL or link to results as evidence
