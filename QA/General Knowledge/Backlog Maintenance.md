@@ -14,7 +14,6 @@ When you feel that you have mastered the competencies above, and you're ready fo
 
 ## Champion
 Ronald Doblado 
-ronald@acklenavenue.com
 
 Please schedule a time with me via this [link](https://calendly.com/ronalddoblado/15min).
 
