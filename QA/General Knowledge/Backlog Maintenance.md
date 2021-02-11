@@ -13,9 +13,8 @@
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Champion
-Ronald Doblado 
-
-Please schedule a time with me via this [link](https://calendly.com/ronalddoblado/15min).
+Teddy Dacareth 
+teddydacareth@acklenavenue.com
 
 ## Suggested Learning
 
