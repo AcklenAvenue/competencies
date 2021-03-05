@@ -11,11 +11,15 @@
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Champion
-Pending.
+Elder Cerrato (elder@acklenavenue.com)
 
 ## Suggested Learning
-
- - [http://acklen.talentlms.com/unit/view/id:3302](http://acklen.talentlms.com/unit/view/id:3302)
- - [https://support.smartbear.com/cucumberstudio/docs/general-info/about.html](https://support.smartbear.com/cucumberstudio/docs/general-info/about.html)
- - [https://support.smartbear.com/cucumberstudio/docs/general-info/quick-start.html](https://support.smartbear.com/cucumberstudio/docs/general-info/quick-start.html)
- - [https://support.smartbear.com/cucumberstudio/docs/bdd/write-gherkin-scenarios.html](https://support.smartbear.com/cucumberstudio/docs/bdd/write-gherkin-scenarios.html)
+ 
+ - [https://www.guru99.com/gherkin-test-cucumber.html]
+ (https://www.guru99.com/gherkin-test-cucumber.html)
+ - [https://cucumber.io/docs/gherkin/reference/]
+ (https://cucumber.io/docs/gherkin/reference/)
+ 
+  Focus more on this Presentation:
+ - [https://docs.google.com/presentation/d/1sRzdTBlNVx4TuSDElxGCQZv6fzGkVzGLArVrwYk7U-Q/edit?usp=sharing]
+ (https://docs.google.com/presentation/d/1sRzdTBlNVx4TuSDElxGCQZv6fzGkVzGLArVrwYk7U-Q/edit?usp=sharing)

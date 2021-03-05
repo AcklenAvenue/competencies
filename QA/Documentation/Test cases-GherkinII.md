@@ -18,4 +18,3 @@ Pending.
  - [https://docs.google.com/presentation/d/1e3pYUnuC07jPOdbvFyu05UV-sK5HPpJpx_Lir6MRU8c/edit#slide=id.g4d015ddcc9_0_45](https://docs.google.com/presentation/d/1e3pYUnuC07jPOdbvFyu05UV-sK5HPpJpx_Lir6MRU8c/edit#slide=id.g4d015ddcc9_0_45)
  - [https://support.smartbear.com/cucumberstudio/docs/tests/create-scenarios.html](https://support.smartbear.com/cucumberstudio/docs/tests/create-scenarios.html)
  - [https://support.smartbear.com/cucumberstudio/docs/tests/action-words.html](https://support.smartbear.com/cucumberstudio/docs/tests/action-words.html)
- 
