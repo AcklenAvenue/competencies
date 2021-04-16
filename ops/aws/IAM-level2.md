@@ -2,10 +2,10 @@
 
 ## Competencies
 
-* Be able to create roles with trusted entities
+* Create roles with trusted entities
 * Write policies with granular permissions
-* Be able to create an instance profile for EC2 instances
-* Be able to assign roles and policies to AWS services to avoid authentication based on Access Keys or users and passwords
+* Create an instance profile for EC2 instances
+* Assign roles and policies to AWS services to avoid authentication based on Access Keys or users and passwords
 
 ## Evaluation
 
