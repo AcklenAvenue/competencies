@@ -22,7 +22,7 @@ Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 ## Suggested Learning
 
-- [https://linuxacademy.com/cp/courses/lesson/course/1937/lesson/2/module/192](https://linuxacademy.com/cp/courses/lesson/course/1937/lesson/2/module/192)
+- [https://learn.acloud.guru/course/93e6884d-ac98-49b6-a9cd-5e357d2dbb41/dashboard](https://learn.acloud.guru/course/93e6884d-ac98-49b6-a9cd-5e357d2dbb41/dashboard)
 - [https://linuxacademy.com/cp/courses/lesson/course/1937/lesson/3/module/192](https://linuxacademy.com/cp/courses/lesson/course/1937/lesson/3/module/192)
 - [https://www.youtube.com/watch?v=jUiKi6FWYrg](https://www.youtube.com/watch?v=jUiKi6FWYrg)
 - [https://www.youtube.com/watch?v=1iXFbchozdY](https://www.youtube.com/watch?v=1iXFbchozdY)
