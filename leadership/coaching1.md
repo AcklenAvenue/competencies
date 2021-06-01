@@ -19,7 +19,7 @@ C2
 - Work with student to build goals and pathway (format)
 
 ## Champion:
-Byron Sommardahl - [byron@acklenavenue.com](mailto:byron@acklenavenue.com)
+- Carlos Solorzano - [schedule eval](https://calendly.com/carlos-solorzano/30min)
 
 ## Evaluation:
 Prove that you have mastered the abilities listed above.

@@ -1,7 +1,7 @@
 # Go Lang Mastery Badge
 ### Champion
 
-- [Byron Sommardahl](mailto:byron@acklenavenue.com)
+- Carlos Solorzano - [schedule eval](https://calendly.com/carlos-solorzano/30min)
 
 ### Competencies
 - Describe language characteristics

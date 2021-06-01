@@ -4,7 +4,7 @@ This criteria serves as the badge criteria for all design patterns.
 
 ### Champion
 
-- [Byron Sommardahl](mailto:byron@acklenavenue.com)
+- Carlos Solorzano - [schedule eval](https://calendly.com/carlos-solorzano/30min)
 
 ### Competencies:
 
