@@ -15,7 +15,7 @@ When you feel that you have mastered the competencies above, and you're ready fo
 Eliseo Garcia - Email: eliseo@acklenavenue.com
 
 ## Suggested Learning
-- [https://docs.gitlab.com/runner/](https://docs.gitlab.com/runner/)
+- [Autoscaling GitLab Runner on AWS EC2](https://docs.gitlab.com/runner/configuration/runner_autoscale_aws/)
 
 ## Claim Badge:
 After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/0tTn90hfTB--orZ93Tw7lw)
