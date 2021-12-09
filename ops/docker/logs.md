@@ -12,15 +12,16 @@
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Subject matter expert
-Héctor Rosales - Email: hector.rosales@acklenavenue.com
+Pablo Lopez - Email: pablo.lopez@acklenavenue.com
 
 ## Suggested Learning
-- [https://linuxacademy.com/cp/modules/view/id/284](https://linuxacademy.com/cp/modules/view/id/284)
-- Possible Katas
-	- [https://app.linuxacademy.com/hands-on-labs/4f7c9f5e-5136-45a7-b705-6fab806719c8](https://app.linuxacademy.com/hands-on-labs/4f7c9f5e-5136-45a7-b705-6fab806719c8)
-	- [https://app.linuxacademy.com/hands-on-labs/59fdabfc-6a85-4bd2-8e9d-2eee3241fa56](https://app.linuxacademy.com/hands-on-labs/59fdabfc-6a85-4bd2-8e9d-2eee3241fa56)
-	- [https://app.linuxacademy.com/hands-on-labs/1ec8d2f8-3929-49ac-aea2-79e2286a3fdd](https://app.linuxacademy.com/hands-on-labs/1ec8d2f8-3929-49ac-aea2-79e2286a3fdd)
-	- [https://app.linuxacademy.com/hands-on-labs/950fb2d7-9a5f-4136-86b4-cae2876bd193](https://app.linuxacademy.com/hands-on-labs/950fb2d7-9a5f-4136-86b4-cae2876bd193)
+- [Introduction to Containers and Docker](https://learn.acloud.guru/course/introduction-to-containers-and-docker/dashboard)
+- [Docker Cheat-Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+
+- Hands-on Labs
+	- [Installing Docker](https://learn.acloud.guru/handson/0b8b3998-9d45-4a45-96a9-83e05de70fc7)
+    - [Docker Images](https://learn.acloud.guru/handson/247a0ef9-2a25-4359-ac69-fee8b38a1632)
+	- [Running Containers](https://learn.acloud.guru/handson/1b5fa203-f461-4db8-93f5-b023c2705102)
 
 ## Claim Badge:
 After you evaluation please click the **Claim Badge** button *(Chrome extension required)* [here](https://acklenavenue.badgr.com/public/badges/De6mNXmAQuW75FwR3yONSg)
