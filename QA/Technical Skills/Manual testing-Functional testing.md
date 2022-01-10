@@ -12,8 +12,7 @@
 When you feel that you have mastered the competencies above, and you're ready for an evaluation, please request a 30 minute meeting with the subject master listed on the badge.
 
 ## Champion
-Ambar Suarez.
-Calendly: [calendly.com/ambarsuarez](calendly.com/ambarsuarez)
+Mario Rubio - [mario.rubio@acklenavenue.com](mailto:mario.rubio@acklenavenue.com)
 
 ## Suggested Learning
 
